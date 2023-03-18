@@ -5,9 +5,9 @@
 
 - 📝 First article made during my third year of studies. **https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/view?usp=sharing**
 
-- 📝 Finishing my **Bachelor’s Degree in Process and Product Innovation Engineering**
+- 📝 Finishing my **Master's Degree in Computational Engineering and Intelligent Systems.**
 
-- 🌱 I am doing my specialization in **Iot and data analysis.**
+- 🌱 I am doing my final master project in **Deep Multimodal Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
