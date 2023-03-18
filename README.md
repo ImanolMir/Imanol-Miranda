@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imanol Miranda</h1>
 <h3 align="center">Passionate about AI.</h3>
 
-- 🔭 I’m currently working on **bearing condition monitoring.**
 
 - 📝 First article made during my third year of studies. **https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/view?usp=sharing**
 
