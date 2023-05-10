@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about AI.</h3>
 
 
-- 📝 First article made during my third year of studies. **https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/view?usp=sharing**
+- 📝 First article made during my third year of studies. 
 
 - 📝 Finishing my **Master's Degree in Computational Engineering and Intelligent Systems.**
 
