@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imanol Miranda</h1>
 <h3 align="center">Passionate about AI.</h3>
 
-
-- 📝 First article made during my third year of studies. 
-
-- 📝 Finishing my **Master's Degree in Computational Engineering and Intelligent Systems.**
-
-- 🌱 I am doing my final master project in **Deep Multimodal Learning.**
+- **Master's Degree in Computational Engineering and Intelligent Systems.**
+- 📝 Doing my PhD at IXA Group / HiTZ Zentroa (EHU/UPV).
+- 🌱 Research area **Deep Multimodal Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
