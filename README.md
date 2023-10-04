@@ -3,7 +3,7 @@
 
 - **Master's Degree in Computational Engineering and Intelligent Systems.**
 - 📝 Doing my PhD at IXA Group / HiTZ Zentroa (EHU/UPV).
-- 🌱 Research area **Deep Multimodal Learning.**
+- 🌱 Thesis topic **Deep Multimodal Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
